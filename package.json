@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-innerwave-fingerprint",
+  "version": "1.0.0",
+  "description": "fingerprint",
+  "cordova": {
+    "id": "cordova-plugin-innerwave-fingerprint",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "kimhs",
+  "license": "MIT"
+}
