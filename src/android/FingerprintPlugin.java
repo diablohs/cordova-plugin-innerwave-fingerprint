@@ -386,21 +386,27 @@ public class FingerprintPlugin extends CordovaPlugin {
                                 /***
                                  Use backup
                                  */
-                                Log.v(TAG, "In backup");
-                                if (useBackupLockScreen() == true) {
-                                    Log.v(TAG, "useBackupLockScreen: true");
-                                } else {
-                                    Log.v(TAG, "useBackupLockScreen: false");
-                                }
 
-                                if (useBackupLockScreen()) {
-                                    showAuthenticationScreen();
-                                } else {
-                                    Log.e(TAG, "Fingerprint authentication not available");
-                                    mPluginResult = new PluginResult(PluginResult.Status.ERROR);
-                                    mCallbackContext.error(PluginError.FINGERPRINT_NOT_AVAILABLE.name());
-                                    mCallbackContext.sendPluginResult(mPluginResult);
-                                }
+                                Log.e(TAG, "Fingerprint authentication not available");
+                                mPluginResult = new PluginResult(PluginResult.Status.ERROR);
+                                mCallbackContext.error(PluginError.FINGERPRINT_NOT_AVAILABLE.name());
+                                mCallbackContext.sendPluginResult(mPluginResult);
+
+//                                Log.v(TAG, "In backup");
+//                                if (useBackupLockScreen() == true) {
+//                                    Log.v(TAG, "useBackupLockScreen: true");
+//                                } else {
+//                                    Log.v(TAG, "useBackupLockScreen: false");
+//                                }
+//
+//                                if (useBackupLockScreen()) {
+//                                    showAuthenticationScreen();
+//                                } else {
+//                                    Log.e(TAG, "Fingerprint authentication not available");
+//                                    mPluginResult = new PluginResult(PluginResult.Status.ERROR);
+//                                    mCallbackContext.error(PluginError.FINGERPRINT_NOT_AVAILABLE.name());
+//                                    mCallbackContext.sendPluginResult(mPluginResult);
+//                                }
                             }
                         }
                     }
