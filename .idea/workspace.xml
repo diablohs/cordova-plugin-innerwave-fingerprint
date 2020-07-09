@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db2c4638-c2e1-42c3-8f61-bc47ba8eec99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/android/drawable/finger_title.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/android/drawable/finger_title.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +27,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/android/FingerprintPlugin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="633">
+            <state relative-caret-position="5910">
               <caret line="408" column="35" selection-start-line="394" selection-start-column="34" selection-end-line="408" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -41,7 +39,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/plugin.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="827">
+            <state relative-caret-position="960">
               <caret line="64" column="22" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="22" />
             </state>
           </provider>
@@ -79,16 +77,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/android/FingerprintUiHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2745">
+            <state relative-caret-position="2730">
               <caret line="208" selection-start-line="208" selection-end-line="208" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#4108#4109#0" expanded="true" />
-                <element signature="e#4176#4177#0" expanded="true" />
-                <element signature="e#5183#5184#0" expanded="true" />
-                <element signature="e#5266#5267#0" expanded="true" />
-                <element signature="e#6506#6507#0" expanded="true" />
-                <element signature="e#6582#6583#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -97,7 +89,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/android/FingerprintAuthenticationDialogFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3825">
+            <state relative-caret-position="3990">
               <caret line="290" selection-start-line="290" selection-end-line="290" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -134,18 +126,18 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2188" />
-    <option name="y" value="66" />
-    <option name="width" value="1168" />
-    <option name="height" value="1057" />
+    <option name="x" value="282" />
+    <option name="y" value="170" />
+    <option name="width" value="1405" />
+    <option name="height" value="883" />
   </component>
+  <component name="ProjectId" id="1eRnSahQpLUfcl8dgi6sStXz5TY" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,39 +145,11 @@
               <item name="cordova-plugin-innerwave-fingerprint" type="b2602c69:ProjectViewProjectNode" />
               <item name="cordova-plugin-innerwave-fingerprint" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="cordova-plugin-innerwave-fingerprint" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cordova-plugin-innerwave-fingerprint" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cordova-plugin-innerwave-fingerprint" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cordova-plugin-innerwave-fingerprint" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cordova-plugin-innerwave-fingerprint" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cordova-plugin-innerwave-fingerprint" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="drawable" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cordova-plugin-innerwave-fingerprint" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cordova-plugin-innerwave-fingerprint" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cordova-plugin-innerwave-fingerprint" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cordova-plugin-innerwave-fingerprint" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -200,6 +164,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res/android/drawable" />
       <recent name="$PROJECT_DIR$/src/ios" />
     </key>
   </component>
@@ -237,11 +202,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2188" y="66" width="1168" height="1057" extended-state="0" />
-    <editor active="true" />
+    <frame x="282" y="170" width="1405" height="883" extended-state="0" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.36181343" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.36127168" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -252,10 +216,10 @@
       <window_info anchor="bottom" id="TODO" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="right" id="Preview" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Preview" order="3" />
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
@@ -272,42 +236,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ios/FingerprintPlugin.swift">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/android/FingerprintUiHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2745">
-          <caret line="208" selection-start-line="208" selection-end-line="208" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4108#4109#0" expanded="true" />
-            <element signature="e#4176#4177#0" expanded="true" />
-            <element signature="e#5183#5184#0" expanded="true" />
-            <element signature="e#5266#5267#0" expanded="true" />
-            <element signature="e#6506#6507#0" expanded="true" />
-            <element signature="e#6582#6583#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/android/FingerprintAuthenticationDialogFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3825">
-          <caret line="290" selection-start-line="290" selection-end-line="290" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/android/FingerprintPlugin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="633">
+        <state relative-caret-position="5910">
           <caret line="408" column="35" selection-start-line="394" selection-start-column="34" selection-end-line="408" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -317,7 +248,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/plugin.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="827">
+        <state relative-caret-position="960">
           <caret line="64" column="22" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="22" />
         </state>
       </provider>
@@ -325,11 +256,38 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/res/android/drawable/ic_fingerprint_success.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/res/android/drawable/ic_fingerprint_error.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/android/drawable/ic_fingerprint_success.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/ios/FingerprintPlugin.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/android/FingerprintUiHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2730">
+          <caret line="208" selection-start-line="208" selection-end-line="208" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/android/FingerprintAuthenticationDialogFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3990">
+          <caret line="290" selection-start-line="290" selection-end-line="290" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/android/drawable/finger_title.png">
       <provider selected="true" editor-type-id="images" />
